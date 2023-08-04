@@ -21,5 +21,3 @@ Agarwal store wants to create an annual sales report for 2022, to make well info
 • Target the women customers of the adult age group living in Maharashtra, Karnataka, and Uttar Pradesh states.
 • Launch different sales/ads/coupons in the month of March.
 • Improved status of orders.
-
-Please feel free to share your feedback on the dashboard.
