@@ -1,4 +1,4 @@
-# -Full-Project-in-Excel-with-Interactive-Dashboard
+# Full-Project-in-Excel-with-Interactive-Dashboard
 📊 Project Objective:
 Agarwal store wants to create an annual sales report for 2022, to make well informed decisions and grow their business and understand their customers better in 2023.
 
